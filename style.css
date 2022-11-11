@@ -15,4 +15,9 @@ h1 {
 
 .conteudo {
     display: flex;
-}   height: 200px;
+   height: 200px;
+}
+
+.conteudo > esquerda > img { 
+
+}
